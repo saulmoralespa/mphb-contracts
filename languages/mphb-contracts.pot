@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Booking PDF Contracts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-11 16:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: mphb-contracts"
+
+#: includes/class-mphb-contract-plugin.php:87
+#: includes/class-mphb-contract-plugin.php:126
+msgid "Contract"
+msgstr ""
+
+#. Description of the plugin
+msgid "Generate booking contract."
+msgstr ""
+
+#: includes/meta-boxes/contract-meta-box.php:46
+msgid "Generate Contract"
+msgstr ""
+
+#. Name of the plugin
+msgid "Hotel Booking PDF Contracts"
+msgstr ""
+
+#: mphb-contracts.php:57
+msgid ""
+"Hotel Booking PDF Contracts plugin requires activated Hotel Booking plugin."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://saulmoralespa.com"
+msgstr ""
+
+#: includes/class-mphb-contract-plugin.php:137
+#: includes/class-mphb-contract-plugin.php:153
+msgid "No booking found!"
+msgstr ""
+
+#: includes/class-mphb-contract-plugin.php:125
+msgid "Open contract in PDF"
+msgstr ""
+
+#: includes/pdf/pdf-helper.php:216
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#. Author of the plugin
+msgid "Saul Morales Pacheco"
+msgstr ""
+
+#: includes/class-mphb-contract-plugin.php:156
+msgid "You don't have permissions for this action!"
+msgstr ""
